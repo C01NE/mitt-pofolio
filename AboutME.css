@@ -1,0 +1,36 @@
+body{
+    background:#E577F7;
+}
+
+h1{
+    text-align: center;
+}
+box1{
+  width: 80vh;
+  margin: 0vh;
+  padding: 5vh;
+  float:left;
+
+}
+box2{
+    width: 75vh;
+    margin:0vh;
+    padding: 5vh;
+    float:right;
+    background:white;
+
+}
+footer{
+list-style: none;
+position: absolute;
+display:inline-block;
+margin: 10px, 30px;
+font-size: 20px;
+padding: 20px, 20px;
+border-radius: 35%;
+bottom: 0px;
+}
+
+footer li{
+    display: inline;
+}
